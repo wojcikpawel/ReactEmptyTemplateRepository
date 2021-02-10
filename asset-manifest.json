@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactEmptyTemplateRepository/static/css/main.523f09c5.chunk.css",
+    "main.js": "/ReactEmptyTemplateRepository/static/js/main.f53acc72.chunk.js",
+    "main.js.map": "/ReactEmptyTemplateRepository/static/js/main.f53acc72.chunk.js.map",
+    "runtime-main.js": "/ReactEmptyTemplateRepository/static/js/runtime-main.88cf144d.js",
+    "runtime-main.js.map": "/ReactEmptyTemplateRepository/static/js/runtime-main.88cf144d.js.map",
+    "static/js/2.a430f49c.chunk.js": "/ReactEmptyTemplateRepository/static/js/2.a430f49c.chunk.js",
+    "static/js/2.a430f49c.chunk.js.map": "/ReactEmptyTemplateRepository/static/js/2.a430f49c.chunk.js.map",
+    "index.html": "/ReactEmptyTemplateRepository/index.html",
+    "precache-manifest.b1df22a5ac271351ca62dd427954f82e.js": "/ReactEmptyTemplateRepository/precache-manifest.b1df22a5ac271351ca62dd427954f82e.js",
+    "service-worker.js": "/ReactEmptyTemplateRepository/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/ReactEmptyTemplateRepository/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.a430f49c.chunk.js.LICENSE.txt": "/ReactEmptyTemplateRepository/static/js/2.a430f49c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ReactEmptyTemplateRepository/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88cf144d.js",
+    "static/js/2.a430f49c.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.f53acc72.chunk.js"
+  ]
+}
